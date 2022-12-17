@@ -1,0 +1,61 @@
+.display {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+    border-color: black;
+    border-style: outset;
+    border-width: 1px;
+    margin-left: 70%;
+    background-color: green;    
+}
+
+.bio {
+    background-color: burlywood;
+    border-color: black;
+    border-style: outset;
+    text-align: center;
+    margin-right: 5%;
+    border-width: 2px;
+}
+
+.certificate {
+    background-color: burlywood;
+    border-color: black;
+    border-style: outset;
+    text-align: center;
+    margin-right: 5%;
+    border-width: 2px;
+}
+
+.expirience {
+    background-color: burlywood;
+    border-color: black;
+    border-style: outset;
+    text-align: center;
+    border-width: 2px;
+}
+
+.certifi {
+    text-align: center;
+    border-color: black;
+    border-style: outset;
+    border-width: 1px;
+    margin-left: 70%;
+    background-color: green;
+}
+
+.expiri {
+    text-align: center;
+    border-color: black;
+    border-style: outset;
+    border-width: 1px;
+    margin-left: 70%;
+    background-color: green;
+}
+
