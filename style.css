@@ -1,0 +1,77 @@
+.display {
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+    border-color: black;
+    border-style: outset;
+    border-width: 1px;
+    margin-left: 70%;
+    background-color: green;   
+    flex-wrap: wrap; 
+}
+
+.bio {
+    background-color: burlywood;
+    border-color: black;
+    border-style: outset;
+    text-align: center;
+    margin-right: 5%;
+    border-width: 2px;
+}
+
+.certificate {
+    background-color: burlywood;
+    border-color: black;
+    border-style: outset;
+    text-align: center;
+    margin-right: 5%;
+    border-width: 2px;
+}
+
+.expirience {
+    background-color: burlywood;
+    border-color: black;
+    border-style: outset;
+    text-align: center;
+    border-width: 2px;
+}
+
+.certifi {
+    text-align: center;
+    border-color: black;
+    border-style: outset;
+    border-width: 1px;
+    margin-left: 70%;
+    background-color: green;
+    flex-wrap: wrap;
+}
+
+.expiri {
+    text-align: center;
+    border-color: black;
+    border-style: outset;
+    border-width: 1px;
+    margin-left: 70%;
+    background-color: green;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+      background-color: blue;
+      color: white;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+      color: white;
+    }
+  }
